@@ -4,7 +4,7 @@ Este projeto é um sistema completo para controle de produção e estoque de mat
 
 ## 📺 Demonstração em Vídeo
 
-![Demonstração do Sistema](media/video.mp4)
+https://github.com/AdrielLuniere/Teste-Pr-tico-Autoflex/raw/main/media/video.mp4
 
 ## 📸 Screenshots
 
