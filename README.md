@@ -4,8 +4,7 @@ Este projeto é um sistema completo para controle de produção e estoque de mat
 
 ## 📺 Demonstração em Vídeo
 
-![Demonstração do Sistema](./frontend/src/movies/testeOracle2.mp4)
-
+<video src="./frontend/src/movies/testeOracle2.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## 📸 Screenshots
 
