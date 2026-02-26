@@ -20,6 +20,5 @@ frontend/.vscode/
 Thumbs.db
 
 # Large media files (GitHub limit 100MB)
-frontend/src/movies/*.mp4
-frontend/src/movies/*.mov
-frontend/src/movies/*.avi
+# frontend/src/movies/*.mp4  <-- Comentado para permitir o vídeo menor
+frontend/src/movies/testeOracle2.mp4
