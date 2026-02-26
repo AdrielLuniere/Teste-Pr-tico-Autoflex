@@ -1,0 +1,17 @@
+services:
+  database:
+    image: gvenzl/oracle-xe:latest
+    container_name: autoflex_db
+    ports:
+      - "1521:1521"
+    environment:
+      - ORACLE_PASSWORD=autoflex_pwd
+      - APP_USER=autoflex_user
+      - APP_USER_PASSWORD=autoflex_pwd
+    healthcheck:
+      test: ["CMD", "healthcheck.sh"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # Backend and Frontend will be added later or run locally for dev

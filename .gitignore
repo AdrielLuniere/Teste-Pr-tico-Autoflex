@@ -1,0 +1,25 @@
+# Backend
+backend/target/
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/.factorypath
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vscode/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large media files (GitHub limit 100MB)
+frontend/src/movies/*.mp4
+frontend/src/movies/*.mov
+frontend/src/movies/*.avi
